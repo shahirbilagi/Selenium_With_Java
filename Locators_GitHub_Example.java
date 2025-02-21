@@ -35,6 +35,6 @@ public class Locators_GitHub_Example {
 
         System.out.println("Login Successful: " + driver.getTitle());
         // Close the browser
-        //driver.quit();
+        driver.quit();
     }
 }
