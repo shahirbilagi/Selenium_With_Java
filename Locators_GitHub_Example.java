@@ -13,7 +13,7 @@ public class Locators_GitHub_Example {
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.github.com");
         driver.manage().window().maximize();
-
+        driver.getTitle();
         // Fix: Use Duration.ofSeconds()
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 
