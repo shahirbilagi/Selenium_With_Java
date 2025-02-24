@@ -1,1 +1,1 @@
-Java Version17, Basic Demo of Selenium automation with java
+Java Version17, Basic Demonstration of Selenium Automation with Java
