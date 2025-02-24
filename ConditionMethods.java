@@ -11,7 +11,6 @@ public class ConditionMethods {
         driver.manage().window().maximize();
          driver.get("https://www.skechers.in/");
 
-
         // IsDisplay Conditional Methods
         WebElement logo=driver.findElement(By.xpath("//img[@class='sketchers-logo']"));
         System.out.println("Display of Logo:"+logo.isDisplayed());
