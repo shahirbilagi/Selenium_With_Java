@@ -1,4 +1,4 @@
-package Selenium_With_Java;
+package Selenium_With_Java.Browser_Handling;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

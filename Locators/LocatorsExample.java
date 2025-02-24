@@ -1,11 +1,11 @@
-package Selenium_With_Java;
+package Selenium_With_Java.Locators;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Locators {
+public class LocatorsExample {
     private static WebElement search;
 
     public static void main(String[] args) {

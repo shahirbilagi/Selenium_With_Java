@@ -1,4 +1,4 @@
-package Selenium_With_Java;
+package Selenium_With_Java.All_Methods;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
