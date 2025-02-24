@@ -1,4 +1,4 @@
 package Selenium_With_Java;
 
-public class WaitCommand {
+public class ExplicitWait {
 }

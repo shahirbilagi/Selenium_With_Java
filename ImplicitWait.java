@@ -6,6 +6,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7e682d4 (Function Updated)
 public class ImplicitWait {
     public static void main(String[] args) throws InterruptedException {
         WebDriver driver = new ChromeDriver();
