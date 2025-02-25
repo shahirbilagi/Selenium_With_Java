@@ -10,7 +10,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 
 public class ExplicitWait {
-
     public static void main(String[] args) throws InterruptedException {
         WebDriver driver = new ChromeDriver();
         //Using Explicit Wait
