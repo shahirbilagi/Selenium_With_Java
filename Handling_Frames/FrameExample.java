@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
+
 public class FrameExample {
     public static void main(String[] args) throws InterruptedException {
         // Setup WebDriver
