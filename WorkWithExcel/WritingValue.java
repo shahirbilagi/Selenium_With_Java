@@ -46,7 +46,7 @@ public class WritingValue {
         row4.createCell(2).setCellValue("BMW M4");
         row4.createCell(3).setCellValue("2023");
 
-        FileOutputStream fis = new FileOutputStream("/Users/shahirbilagi/IdeaProjects/MainFile/src/Selenium_With_Java/WorkWithNumbers_Excel/CarExample.xlsx");
+        FileOutputStream fis = new FileOutputStream("/Users/shahirbilagi/IdeaProjects/MainFile/src/Selenium_With_Java/WorkWithExcel/CarExample.xlsx");
         workbook.write(fis);
         fis.close();
         System.out.println("Done");

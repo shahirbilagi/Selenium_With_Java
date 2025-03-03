@@ -12,7 +12,7 @@ public class ReadingValues {
     public static void main(String[] args) throws IOException {
 
         // Load the Excel file
-        FileInputStream fis = new FileInputStream("/Users/shahirbilagi/IdeaProjects/MainFile/src/Selenium_With_Java/WorkWithNumbers_Excel/Cars.xlsx");
+        FileInputStream fis = new FileInputStream("/Users/shahirbilagi/IdeaProjects/MainFile/src/Selenium_With_Java/WorkWithExcel/Cars.xlsx");
         XSSFWorkbook workbook = new XSSFWorkbook(fis);
         XSSFSheet sheet = workbook.getSheet("Sheet 1");
         int rowNum = sheet.getLastRowNum();
