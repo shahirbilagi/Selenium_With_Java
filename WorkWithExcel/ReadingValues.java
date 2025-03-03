@@ -1,4 +1,4 @@
-package Selenium_With_Java.WorkWithNumbers_Excel;
+package Selenium_With_Java.WorkWithExcel;
 
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
