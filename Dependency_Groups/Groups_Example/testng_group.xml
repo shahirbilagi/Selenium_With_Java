@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/shahirbilagi/IdeaProjects/MainFile/src/Selenium_With_Java/Dependency_Groups/Groups_Example">
+           <groups>
+               <run>
+                   <include name="AppFunctionality"/>
+               </run>
+           </groups>
+        <classes>
+            <class name="Selenium_With_Java.Dependency_Groups.Groups_Example.Application"/>
+            <class name="Selenium_With_Java.Dependency_Groups.Groups_Example.LoginLogout"/>
+            <class name="Selenium_With_Java.Dependency_Groups.Groups_Example.Payment"/>
+        </classes>
+    </test>
+</suite>

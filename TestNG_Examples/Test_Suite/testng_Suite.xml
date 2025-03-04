@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/shahirbilagi/IdeaProjects/MainFile/src/Selenium_With_Java/TestNG_Examples/Test_Suite">
+        <classes>
+            <class name="Selenium_With_Java.TestNG_Examples.Test_Suite.class1">
+                <methods>
+                    <include name="Search"/>
+                </methods>
+            </class>
+            <class name="Selenium_With_Java.TestNG_Examples.Test_Suite.class2">
+                <methods>
+                    <include name="AdvSearch"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
