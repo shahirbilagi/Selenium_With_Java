@@ -1,4 +1,4 @@
-package Selenium_With_Java.DataProvider;
+package Selenium_With_Java.DataProvider_ParallelTesting;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

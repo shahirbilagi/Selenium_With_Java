@@ -4,6 +4,7 @@
     <test verbose="2" preserve-order="true"
           name="/Users/shahirbilagi/IdeaProjects/MainFile/src/Selenium_With_Java/DataProvider_ParallelTesting/ParallelTesting.java">
         <parameter name="Browser" value="chrome"/>
+        <parameter name="URL" value="https://www.google.com"/>
         <classes>
             <class name="Selenium_With_Java.DataProvider_ParallelTesting.ParallelTesting">
                 <methods>
