@@ -1,4 +1,4 @@
-package Selenium_With_Java.DependencyMethods;
+package Selenium_With_Java.Dependency_Groups;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
