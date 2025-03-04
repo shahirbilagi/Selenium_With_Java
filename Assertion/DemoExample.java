@@ -1,10 +1,9 @@
 package Selenium_With_Java.Assertion;
 
-import org.checkerframework.checker.units.qual.A;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Example1 {
+public class DemoExample {
     @Test
     void EqualTest() {
         String a = "World";
