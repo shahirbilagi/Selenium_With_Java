@@ -38,7 +38,7 @@ public class DPDemo {
 
     @DataProvider(name = "DP")
     String[][] Details() {
-        return new String[][]{{"shahirbilagi43@gmail.com", "Shahir@43"}};
+        return new String[][]{{"shahirbilagi43@gmail.com", "ShahirBilagi@43"}};
          // Add if more user authentication to be done also add logout functionality
     }
 
